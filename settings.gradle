@@ -1,0 +1,2 @@
+rootProject.name='FFTest'
+include ':app'
